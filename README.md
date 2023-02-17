@@ -1,3 +1,9 @@
+# Veeries Challenge with ReactJS
+
+
+![react-app-veeries-challenge_1](https://user-images.githubusercontent.com/69803794/219610638-7599c7bb-5b87-40b7-b958-f9325ecccd26.gif)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
