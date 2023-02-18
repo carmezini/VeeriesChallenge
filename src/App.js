@@ -1,5 +1,5 @@
 import React, {useState} from 'react';
-import './App.css';
+import '../src/components/styles/App.css';
 import Input  from '../src/components/input';
 import Icons from '../src/components/icons';
 import WeatherData from '../src/components/weatherData';

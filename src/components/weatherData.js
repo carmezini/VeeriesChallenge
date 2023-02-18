@@ -1,5 +1,5 @@
 import React from 'react';
-import '../App.css'
+import '../components/styles/App.css';
 
 
 const Weather = ({description, temp_min, temperature, temp_max, humidity, wind, rain, icon}) => {
